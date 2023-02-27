@@ -1,0 +1,33 @@
+ .tab-menu .header{
+    width: 500px;
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+    
+
+}
+
+.tab-menu .header .item{
+
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    transition: all 0.5s;
+
+}
+
+.tab-menu .content{
+    width: 500px;
+    background-color: gray;
+    padding: 10px;
+    color: white;
+    border: 1px solid black;
+
+}
+.items{
+    display: none;
+}
+
+.actives{
+    
+    opacity: 0.7;
+} 
